@@ -11,7 +11,7 @@ inline int factorial(int n) {
 
 int main(void)
 {
-    cout << "Factorial of 5: " << endl;
-    cout << factorial(5) << endl;
+    cout << "Factorial of 8: " << endl;
+    cout << factorial(8) << endl;
     return 0;
 }
